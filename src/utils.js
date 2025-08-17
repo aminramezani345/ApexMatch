@@ -1,0 +1,1 @@
+export const createPageUrl=(n)=>({Home:'/',Candidates:'/candidates',Employers:'/employers',Matches:'/matches',Groups:'/groups',Profile:'/profile'})[n]||'/'

@@ -1,0 +1,1 @@
+export const User={async me(){return {id:1}},login(){console.log('login')}};

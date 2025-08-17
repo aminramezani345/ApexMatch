@@ -1,0 +1,1 @@
+export const Card=({children})=><div>{children}</div>;export const CardHeader=({children})=><div>{children}</div>;export const CardTitle=({children})=><h3>{children}</h3>;export const CardContent=({children})=><div>{children}</div>;export const CardDescription=({children})=><p>{children}</p>;

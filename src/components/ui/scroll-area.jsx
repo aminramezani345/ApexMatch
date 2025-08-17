@@ -1,0 +1,1 @@
+export const ScrollArea=(p)=><div style={{overflow:'auto'}} {...p}/>;

@@ -1,0 +1,1 @@
+export const Progress=({value=0})=><div><div style={{width:`${value}%`,height:8,background:'#3b82f6'}}/></div>;

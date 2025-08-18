@@ -102,11 +102,19 @@ Contributions, issues, and feature requests are welcome!
 
 Fork the project
 
-Create a feature branch (git checkout -b feature/amazing-feature)
+Create a feature branch 
 
-Commit changes (git commit -m 'Add amazing feature')
-
-Push to the branch (git push origin feature/amazing-feature)
+```bash
+git checkout -b feature/amazing-feature
+```
+Commit changes 
+```bash
+git commit -m 'Add amazing feature'
+```
+Push to the branch 
+```bash
+git push origin feature/amazing-feature
+```
 
 Open a Pull Request
 

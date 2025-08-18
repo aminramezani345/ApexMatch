@@ -45,10 +45,11 @@ npm run dev
 
 Visit: http://localhost:5173
 
-🏗️ Build and Deployment
-Build for production
-npm run build
+## 🏗️ Build and Deployment
 
+### Build for production
+```bash
+npm run build
 
 Output is in the dist/ folder.
 
@@ -78,6 +79,7 @@ ApexMatch01/
 │── postcss.config.js       # PostCSS config
 │── /public                 # Static assets (icons, logos)
 │── /src                    # React components & app logic
+
 
 🚀 Roadmap
 

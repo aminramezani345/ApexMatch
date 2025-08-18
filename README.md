@@ -74,7 +74,7 @@ vercel
 
 
 The project includes a vercel.json for automatic configuration.
-
+```bash
 📂 Project Structure
 ApexMatch01/
 │── index.html              # Entry HTML file
@@ -84,7 +84,7 @@ ApexMatch01/
 │── postcss.config.js       # PostCSS config
 │── /public                 # Static assets (icons, logos)
 │── /src                    # React components & app logic
-
+```
 
 🚀 Roadmap
 

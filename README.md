@@ -30,18 +30,21 @@ Vercel – Deployment
 
 📦 Installation
 1. Clone the repository
+ ```bash
 git clone https://github.com/aminramezani345/ApexMatch.git
 cd ApexMatch01
+```
 
-2. Install dependencies
+3. Install dependencies
 
 Make sure you have Node.js v16+ and npm installed. Then run:
-
+```bash
 npm install
-
+```
 3. Start development server
+```bash
 npm run dev
-
+```
 
 Visit: http://localhost:5173
 
@@ -55,14 +58,15 @@ npm run build
 Output is in the dist/ folder.
 
 Preview production build
+```bash
 npm run preview
-
+```
 Deploy on Vercel
 
 Install Vercel CLI:
-
+```bash
 npm i -g vercel
-
+```
 
 Deploy:
 

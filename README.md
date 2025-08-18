@@ -50,7 +50,8 @@ Visit: http://localhost:5173
 ### Build for production
 ```bash
 npm run build
-'''
+```
+
 Output is in the dist/ folder.
 
 Preview production build

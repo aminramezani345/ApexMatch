@@ -30,7 +30,7 @@ Vercel – Deployment
 
 📦 Installation
 1. Clone the repository
-git clone https://github.com/<your-username>/ApexMatch.git
+git clone https://github.com/aminramezani345/ApexMatch.git
 cd ApexMatch01
 
 2. Install dependencies
